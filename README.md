@@ -46,7 +46,7 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://portfolio-gc79mzkk4-witharthurs-projects.vercel.app/" target="_blank">
+  <a href="https://portfolio-ten-gamma-7de2gbzqpi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=portfolio&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/arthurdadalian" target="_blank">
