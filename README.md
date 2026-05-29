@@ -52,7 +52,7 @@
   <a href="https://t.me/arthurdadalian" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="https://patreon.com/arthur999" target="_blank">
+  <a href="https://www.patreon.com/c/arthurdev/shop" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"  />
   </a>
   <a href="https://dev.to/witharthur" target="_blank">
